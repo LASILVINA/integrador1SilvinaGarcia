@@ -1,0 +1,87 @@
+* {   margin: 0px;
+    padding: 0px;
+  }
+  
+  
+#este-va-verde {
+  color: #4CAF50;
+}
+
+
+.nav {
+            color: white;
+            display: flex;
+            list-style-type: none;
+            background-color: #383770;
+            text-align: center center;
+            margin: 0;
+            padding: 0;
+          }
+
+.nav li {
+  font: white;
+            display: inline-block;
+            font-size: 20px;   
+            padding: 20px;
+            text-decoration: none;
+            margin-left: 5px;
+            margin-right: 5px;
+            
+          }
+         
+.nav li img {
+            width: 220px;
+          }
+.nav a {
+            text-decoration: none;
+            color: rgb(190, 185, 185);
+        }
+        
+.links-derecha  {
+            display: flex;
+            margin: 7px;
+}
+.links-derecha li {
+    list-style: none;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}    
+.links-derecha a {
+            text-decoration: none;
+            color: rgb(190, 185, 185);
+        }
+#en-verde a {
+            color: rgb(100, 231, 100);
+        }
+#en-claro a {
+            color: white;
+            font-size: 10vm;
+}
+/*.....................................segunda seccion - es de la foto mas grande de Bs As...................*/
+.image-bg {
+  background-size: cover;
+  background-position: center;
+      }
+
+.img-oscurecer {
+  filter: brightness(50%);
+      }
+.image-with-text {
+    position: relative;
+    display: inline-block;
+       }
+.image-with-text .caption {
+   font-weight: bold;
+    position: absolute;
+    top: 65%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    color: white;  
+    padding: 10px;
+       }
+
+
+
+      
