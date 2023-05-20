@@ -1,1 +1,5 @@
-Silvina Alejandra Garcia - año 2023 - Comision 23042  (vengo de la comisión 23069)
+S. Garcia - año 2023 - Comision 23042  (vengo de la comisión 23069)
+
+Profe: la navbar del header se ve diferente luego de subirla a git.
+En mi backup está justo en la misma medida que la foto de Bs As y las fuentes son mas grandes. 
+No se por que pasa esto.
